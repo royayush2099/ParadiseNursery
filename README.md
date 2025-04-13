@@ -57,7 +57,7 @@ If the user still has requests and would like to display the product list, they 
 
 The implementation of the checkout button was not part of the project.<br>
 To inform the user of this, an alert is displayed when the button is clicked:<br>
-![image](https://github.com/user-attachments/assets/87301988-5013-4640-95c1-980eeb931bef)
+
 
 More is currently not possible in this application.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
